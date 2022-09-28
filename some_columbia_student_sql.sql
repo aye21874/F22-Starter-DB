@@ -1,6 +1,10 @@
 /*
  Create table statement.
  */
+USE f22_databases;
+
+
+
 create table columbia_student
 (
     auto_id     int auto_increment
